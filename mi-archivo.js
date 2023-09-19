@@ -1,1 +1,2 @@
-window.alert("Hola mundo");
+alert();
+alert("Hola mundo");
